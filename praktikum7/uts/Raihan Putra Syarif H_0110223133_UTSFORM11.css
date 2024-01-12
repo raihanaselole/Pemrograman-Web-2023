@@ -1,0 +1,36 @@
+
+table {
+    width: 30%;
+    margin-left: 20%;
+}
+
+tr, td {
+    padding: 10px;
+}
+th {
+text-align: right;
+}
+
+button {
+    background-color: cornflowerblue;
+}
+button[type=reset] {
+    background-color: red;
+}
+input {
+    border: 2px solid black;
+}
+
+select[type=text] {
+    border: 2px solid black;
+}
+textarea {
+    border: 2px solid black; 
+    width: 130%;
+}
+input[type=text] {
+    width: 100%;
+}
+fieldset {
+    background-color: aquamarine;
+}
